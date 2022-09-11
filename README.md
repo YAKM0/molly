@@ -1,7 +1,8 @@
-# molly
+# molly_maker.sh
+
 Malicious Android reverse shell APK maker. automatic, and signed through tools found on kali linux
 
-git 
+git clone https://github.com/YAKM0/molly.git
 
 cd molly
 
